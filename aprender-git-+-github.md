@@ -1,6 +1,6 @@
 ---
 title: "Aprender Git + GitHub"
-tags: ""
+tag: "Notas tomadas con Boostnotes"
 ---
 
 # Notas Git y Git Hub (Curso by Brais Moure)
